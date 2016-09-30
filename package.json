@@ -1,14 +1,14 @@
 {
   "name": "express-request-summary",
   "version": "1.0.0",
-  "description": "Logs a summary of every request to the server",
+  "description": "An express middleware that logs a summary of every request to the server",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "express-request-summary"
+    "url": "http://github.com/sarapple/express-request-summary"
   },
   "keywords": [
     "express",
